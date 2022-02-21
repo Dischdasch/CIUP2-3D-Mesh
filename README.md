@@ -14,3 +14,5 @@ Las instruciones est√°n en la programa todo tiempo porque no es mucha informaci√
 Porque solo son tres frases, no molestan la imagen.
 
 Fue utilizado la infomracion de https://processing.org/reference
+
+Dascha Blehm 2022
