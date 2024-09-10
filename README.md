@@ -1,4 +1,4 @@
-# CIUP2
+# CIUP2 3D Mesh
 Un prototipo que recoja puntos de un perfil del sólido de revolución al hacer clic con el ratón sobre la pantalla
 
 ![animacion](https://user-images.githubusercontent.com/44921828/154871284-ad039ab3-c938-4690-b4f9-d43d745d9567.gif)
